@@ -1,730 +1,250 @@
-Tuesday, Jun 18, 2024
-6, 10, 12, 19, 36 CB: 4
-Monday, Jun 17, 2024
-7, 10, 34, 49, 56 CB: 3
-Sunday, Jun 16, 2024
-33, 38, 41, 43, 57 CB: 3
-Saturday, Jun 15, 2024
-2, 31, 32, 36, 45 CB: 3
-Friday, Jun 14, 2024
-2, 14, 17, 40, 60 CB: 2
-Thursday, Jun 13, 2024
-1, 23, 34, 35, 36 CB: 1
-Wednesday, Jun 12, 2024
-8, 11, 27, 49, 60 CB: 1
-Tuesday, Jun 11, 2024
-3, 12, 30, 41, 45 CB: 1
-Monday, Jun 10, 2024
-6, 29, 38, 41, 48 CB: 2
-Sunday, Jun 09, 2024
-35, 39, 41, 50, 53 CB: 1
-Saturday, Jun 08, 2024
-6, 33, 41, 52, 60 CB: 4
-Friday, Jun 07, 2024
-25, 43, 44, 57, 60 CB: 2
-Thursday, Jun 06, 2024
-3, 8, 15, 38, 41 CB: 1
-Wednesday, Jun 05, 2024
-24, 34, 36, 38, 52 CB: 2
-Tuesday, Jun 04, 2024
-3, 24, 26, 33, 56 CB: 2
-Monday, Jun 03, 2024
-1, 8, 10, 26, 45 CB: 4
-Sunday, Jun 02, 2024
-9, 23, 25, 38, 56 CB: 2
-Saturday, Jun 01, 2024
-17, 29, 38, 40, 59 CB: 3
-Friday, May 31, 2024
-8, 27, 32, 45, 46 CB: 3
-Thursday, May 30, 2024
-12, 26, 36, 46, 56 CB: 2
-Wednesday, May 29, 2024
-15, 19, 20, 43, 45 CB: 1
-Tuesday, May 28, 2024
-1, 3, 21, 23, 60 CB: 1
-Monday, May 27, 2024
-2, 14, 16, 22, 56 CB: 4
-Sunday, May 26, 2024
-3, 15, 24, 26, 50 CB: 3
-Saturday, May 25, 2024
-16, 17, 34, 38, 42 CB: 4
-Friday, May 24, 2024
-1, 4, 8, 28, 44 CB: 1
-Thursday, May 23, 2024
-10, 14, 30, 37, 56 CB: 1
-Wednesday, May 22, 2024
-7, 13, 19, 22, 40 CB: 2
-Tuesday, May 21, 2024
-5, 30, 38, 51, 56 CB: 1
-Monday, May 20, 2024
-5, 28, 43, 44, 50 CB: 4
-Sunday, May 19, 2024
-5, 9, 13, 52, 57 CB: 3
-Saturday, May 18, 2024
-1, 11, 27, 39, 54 CB: 3
-Friday, May 17, 2024
-8, 12, 16, 35, 39 CB: 3
-Thursday, May 16, 2024
-9, 33, 52, 54, 57 CB: 3
-Wednesday, May 15, 2024
-8, 14, 25, 36, 58 CB: 1
-Tuesday, May 14, 2024
-21, 24, 25, 27, 34 CB: 2
-Monday, May 13, 2024
-1, 8, 19, 22, 40 CB: 1
-Sunday, May 12, 2024
-2, 7, 38, 39, 57 CB: 4
-Saturday, May 11, 2024
-2, 14, 41, 44, 47 CB: 3
-Friday, May 10, 2024
-16, 26, 39, 42, 47 CB: 4
-Thursday, May 09, 2024
-12, 15, 24, 36, 50 CB: 2
-Wednesday, May 08, 2024
-4, 10, 36, 43, 51 CB: 4
-Tuesday, May 07, 2024
-6, 9, 17, 31, 59 CB: 2
-Monday, May 06, 2024
-11, 37, 48, 50, 57 CB: 4
-Sunday, May 05, 2024
-3, 15, 37, 40, 52 CB: 1
-Saturday, May 04, 2024
-5, 10, 23, 26, 35 CB: 4
-Friday, May 03, 2024
-3, 7, 9, 25, 42 CB: 4
-Thursday, May 02, 2024
-4, 25, 30, 43, 57 CB: 2
-Wednesday, May 01, 2024
-9, 13, 27, 31, 44 CB: 3
-Tuesday, Apr 30, 2024
-5, 23, 26, 29, 33 CB: 3
-Monday, Apr 29, 2024
-13, 26, 35, 46, 50 CB: 1
-Sunday, Apr 28, 2024
-2, 21, 32, 49, 52 CB: 2
-Saturday, Apr 27, 2024
-5, 7, 28, 44, 52 CB: 1
-Friday, Apr 26, 2024
-13, 15, 23, 28, 33 CB: 4
-Thursday, Apr 25, 2024
-3, 7, 39, 49, 58 CB: 1
-Wednesday, Apr 24, 2024
-23, 35, 36, 41, 44 CB: 4
-Tuesday, Apr 23, 2024
-19, 23, 30, 44, 50 CB: 1
-Monday, Apr 22, 2024
-6, 16, 45, 49, 54 CB: 2
-Sunday, Apr 21, 2024
-2, 8, 46, 53, 55 CB: 2
-Saturday, Apr 20, 2024
-1, 27, 35, 55, 58 CB: 1
-Friday, Apr 19, 2024
-9, 12, 13, 21, 40 CB: 4
-Thursday, Apr 18, 2024
-5, 36, 38, 45, 59 CB: 1
-Wednesday, Apr 17, 2024
-10, 14, 32, 55, 56 CB: 2
-Tuesday, Apr 16, 2024
-6, 7, 37, 44, 54 CB: 2
-Monday, Apr 15, 2024
-29, 32, 35, 43, 44 CB: 2
-Sunday, Apr 14, 2024
-16, 28, 33, 54, 55 CB: 1
-Saturday, Apr 13, 2024
-14, 21, 24, 27, 38 CB: 2
-Friday, Apr 12, 2024
-12, 31, 49, 54, 56 CB: 3
-Thursday, Apr 11, 2024
-6, 23, 32, 33, 59 CB: 4
-Wednesday, Apr 10, 2024
-17, 24, 39, 40, 41 CB: 1
-Tuesday, Apr 09, 2024
-11, 13, 27, 29, 31 CB: 4
-Monday, Apr 08, 2024
-6, 10, 18, 50, 52 CB: 2
-Sunday, Apr 07, 2024
-3, 16, 40, 45, 56 CB: 4
-Saturday, Apr 06, 2024
-17, 23, 31, 46, 48 CB: 1
-Friday, Apr 05, 2024
-2, 5, 15, 25, 57 CB: 2
-Thursday, Apr 04, 2024
-23, 26, 28, 30, 36 CB: 3
-Wednesday, Apr 03, 2024
-19, 29, 37, 47, 51 CB: 1
-Tuesday, Apr 02, 2024
-26, 27, 43, 50, 56 CB: 3
-Monday, Apr 01, 2024
-12, 23, 25, 29, 45 CB: 4
-Sunday, Mar 31, 2024
-25, 38, 44, 55, 57 CB: 4
-Saturday, Mar 30, 2024
-3, 8, 36, 52, 57 CB: 1
-Friday, Mar 29, 2024
-10, 12, 13, 50, 56 CB: 3
-Thursday, Mar 28, 2024
-3, 16, 21, 39, 51 CB: 2
-Wednesday, Mar 27, 2024
-2, 34, 38, 43, 51 CB: 1
-Tuesday, Mar 26, 2024
-34, 38, 39, 42, 52 CB: 3
-Monday, Mar 25, 2024
-15, 29, 31, 38, 57 CB: 2
-Sunday, Mar 24, 2024
-14, 15, 23, 53, 54 CB: 2
-Saturday, Mar 23, 2024
-33, 39, 43, 51, 59 CB: 4
-Friday, Mar 22, 2024
-3, 11, 21, 38, 42 CB: 2
-Thursday, Mar 21, 2024
-8, 11, 25, 49, 56 CB: 4
-Wednesday, Mar 20, 2024
-37, 43, 49, 51, 56 CB: 2
-Tuesday, Mar 19, 2024
-7, 10, 29, 41, 51 CB: 4
-Monday, Mar 18, 2024
-5, 11, 20, 23, 57 CB: 2
-Sunday, Mar 17, 2024
-16, 51, 52, 55, 56 CB: 1
-Saturday, Mar 16, 2024
-7, 14, 17, 40, 49 CB: 3
-Friday, Mar 15, 2024
-23, 28, 44, 46, 47 CB: 1
-Thursday, Mar 14, 2024
-7, 12, 14, 50, 52 CB: 3
-Wednesday, Mar 13, 2024
-2, 8, 28, 29, 49 CB: 2
-Tuesday, Mar 12, 2024
-3, 9, 24, 27, 39 CB: 3
-Monday, Mar 11, 2024
-7, 13, 16, 26, 27 CB: 2
-Sunday, Mar 10, 2024
-5, 13, 17, 42, 43 CB: 4
-Saturday, Mar 09, 2024
-1, 6, 23, 37, 56 CB: 3
-Friday, Mar 08, 2024
-16, 37, 42, 49, 51 CB: 2
-Thursday, Mar 07, 2024
-31, 34, 40, 51, 60 CB: 1
-Wednesday, Mar 06, 2024
-10, 26, 44, 52, 55 CB: 1
-Tuesday, Mar 05, 2024
-9, 25, 39, 46, 58 CB: 2
-Monday, Mar 04, 2024
-13, 36, 41, 49, 55 CB: 1
-Sunday, Mar 03, 2024
-38, 39, 46, 48, 52 CB: 4
-Saturday, Mar 02, 2024
-5, 21, 33, 44, 56 CB: 3
-Friday, Mar 01, 2024
-6, 21, 36, 39, 55 CB: 1
-Thursday, Feb 29, 2024
-6, 7, 21, 26, 57 CB: 2
-Wednesday, Feb 28, 2024
-7, 8, 19, 22, 33 CB: 2
-Tuesday, Feb 27, 2024
-3, 17, 27, 53, 59 CB: 2
-Monday, Feb 26, 2024
-11, 34, 40, 43, 55 CB: 2
-Sunday, Feb 25, 2024
-13, 32, 34, 44, 50 CB: 3
-Saturday, Feb 24, 2024
-6, 8, 36, 50, 51 CB: 4
-Friday, Feb 23, 2024
-9, 36, 41, 46, 47 CB: 2
-Thursday, Feb 22, 2024
-2, 8, 24, 47, 51 CB: 4
-Wednesday, Feb 21, 2024
-12, 26, 29, 30, 32 CB: 1
-Tuesday, Feb 20, 2024
-5, 20, 23, 32, 43 CB: 3
-Monday, Feb 19, 2024
-1, 39, 49, 53, 54 CB: 3
-Sunday, Feb 18, 2024
-7, 22, 28, 42, 45 CB: 4
-Saturday, Feb 17, 2024
-5, 38, 44, 48, 55 CB: 3
-Friday, Feb 16, 2024
-2, 28, 41, 45, 59 CB: 2
-Thursday, Feb 15, 2024
-15, 30, 37, 39, 59 CB: 2
-Wednesday, Feb 14, 2024
-13, 18, 41, 44, 51 CB: 3
-Tuesday, Feb 13, 2024
-3, 7, 21, 41, 49 CB: 1
-Monday, Feb 12, 2024
-5, 16, 26, 32, 39 CB: 1
-Sunday, Feb 11, 2024
-1, 21, 38, 39, 59 CB: 4
-Saturday, Feb 10, 2024
-8, 23, 34, 39, 55 CB: 3
-Friday, Feb 09, 2024
-22, 27, 33, 44, 59 CB: 1
-Thursday, Feb 08, 2024
-5, 10, 25, 38, 57 CB: 4
-Wednesday, Feb 07, 2024
-38, 40, 45, 47, 57 CB: 3
-Tuesday, Feb 06, 2024
-2, 3, 13, 22, 23 CB: 4
-Monday, Feb 05, 2024
-19, 31, 39, 45, 54 CB: 4
-Sunday, Feb 04, 2024
-30, 32, 37, 47, 59 CB: 4
-Saturday, Feb 03, 2024
-10, 19, 39, 41, 58 CB: 2
-Friday, Feb 02, 2024
-19, 31, 34, 38, 41 CB: 1
-Thursday, Feb 01, 2024
-4, 17, 18, 19, 44 CB: 4
-Wednesday, Jan 31, 2024
-5, 13, 51, 52, 59 CB: 4
-Tuesday, Jan 30, 2024
-4, 28, 35, 47, 57 CB: 4
-Monday, Jan 29, 2024
-12, 42, 43, 45, 53 CB: 3
-Sunday, Jan 28, 2024
-6, 15, 29, 35, 36 CB: 3
-Saturday, Jan 27, 2024
-17, 19, 29, 42, 47 CB: 1
-Friday, Jan 26, 2024
-5, 8, 29, 32, 42 CB: 4
-Thursday, Jan 25, 2024
-9, 28, 55, 58, 59 CB: 4
-Wednesday, Jan 24, 2024
-1, 9, 22, 27, 50 CB: 1
-Tuesday, Jan 23, 2024
-6, 21, 42, 43, 54 CB: 2
-Monday, Jan 22, 2024
-26, 28, 43, 50, 56 CB: 3
-Sunday, Jan 21, 2024
-12, 26, 34, 51, 55 CB: 3
-Saturday, Jan 20, 2024
-8, 34, 36, 51, 52 CB: 2
-Friday, Jan 19, 2024
-30, 35, 42, 47, 50 CB: 4
-Thursday, Jan 18, 2024
-2, 3, 4, 25, 57 CB: 3
-Wednesday, Jan 17, 2024
-28, 41, 49, 55, 57 CB: 4
-Tuesday, Jan 16, 2024
-10, 11, 26, 30, 45 CB: 1
-Monday, Jan 15, 2024
-17, 28, 30, 37, 48 CB: 3
-Sunday, Jan 14, 2024
-3, 16, 27, 28, 44 CB: 1
-Saturday, Jan 13, 2024
-5, 17, 23, 25, 47 CB: 1
-Friday, Jan 12, 2024
-29, 43, 51, 56, 57 CB: 3
-Thursday, Jan 11, 2024
-24, 25, 27, 32, 52 CB: 3
-Wednesday, Jan 10, 2024
-14, 16, 40, 47, 58 CB: 4
-Tuesday, Jan 09, 2024
-2, 9, 13, 25, 47 CB: 1
-Monday, Jan 08, 2024
-35, 38, 50, 52, 56 CB: 4
-Sunday, Jan 07, 2024
-11, 12, 23, 34, 39 CB: 4
-Saturday, Jan 06, 2024
-5, 7, 26, 28, 42 CB: 1
-Friday, Jan 05, 2024
-7, 10, 28, 36, 57 CB: 1
-Thursday, Jan 04, 2024
-6, 10, 19, 27, 51 CB: 2
-Wednesday, Jan 03, 2024
-12, 28, 32, 46, 51 CB: 4
-Tuesday, Jan 02, 2024
-12, 20, 33, 53, 54 CB: 3
-Monday, Jan 01, 2024
-23, 27, 36, 45, 60 CB: 1
-Sunday, Dec 31, 2023
-16, 17, 22, 36, 54 CB: 3
-Saturday, Dec 30, 2023
-11, 23, 34, 42, 58 CB: 4
-Friday, Dec 29, 2023
-6, 13, 26, 39, 41 CB: 4
-Thursday, Dec 28, 2023
-5, 7, 10, 32, 58 CB: 3
-Wednesday, Dec 27, 2023
-1, 7, 10, 25, 32 CB: 3
-Tuesday, Dec 26, 2023
-3, 33, 36, 44, 51 CB: 4
-Monday, Dec 25, 2023
-19, 29, 48, 51, 53 CB: 4
-Sunday, Dec 24, 2023
-5, 21, 23, 48, 57 CB: 2
-Saturday, Dec 23, 2023
-13, 35, 36, 38, 49 CB: 1
-Friday, Dec 22, 2023
-26, 42, 49, 57, 60 CB: 3
-Thursday, Dec 21, 2023
-1, 10, 11, 36, 38 CB: 1
-Wednesday, Dec 20, 2023
-15, 26, 28, 34, 37 CB: 1
-Tuesday, Dec 19, 2023
-9, 17, 26, 29, 41 CB: 3
-Monday, Dec 18, 2023
-4, 18, 28, 36, 60 CB: 2
-Sunday, Dec 17, 2023
-8, 31, 41, 49, 58 CB: 3
-Saturday, Dec 16, 2023
-14, 18, 38, 50, 54 CB: 2
-Friday, Dec 15, 2023
-7, 19, 34, 51, 55 CB: 4
-Thursday, Dec 14, 2023
-10, 11, 22, 36, 52 CB: 3
-Wednesday, Dec 13, 2023
-5, 20, 23, 48, 53 CB: 3
-Tuesday, Dec 12, 2023
-11, 12, 52, 57, 58 CB: 4
-Monday, Dec 11, 2023
-5, 6, 7, 26, 52 CB: 2
-Sunday, Dec 10, 2023
-2, 4, 18, 32, 40 CB: 3
-Saturday, Dec 09, 2023
-21, 30, 34, 42, 52 CB: 1
-Friday, Dec 08, 2023
-22, 37, 40, 52, 59 CB: 3
-Thursday, Dec 07, 2023
-16, 24, 32, 38, 52 CB: 2
-Wednesday, Dec 06, 2023
-8, 14, 38, 40, 46 CB: 4
-Tuesday, Dec 05, 2023
-17, 28, 49, 56, 59 CB: 4
-Monday, Dec 04, 2023
-5, 12, 14, 24, 33 CB: 2
-Sunday, Dec 03, 2023
-4, 7, 13, 35, 45 CB: 1
-Saturday, Dec 02, 2023
-12, 13, 31, 36, 42 CB: 4
-Friday, Dec 01, 2023
-14, 31, 36, 56, 60 CB: 3
-Thursday, Nov 30, 2023
-7, 14, 21, 58, 60 CB: 1
-Wednesday, Nov 29, 2023
-1, 26, 27, 51, 59 CB: 1
-Tuesday, Nov 28, 2023
-13, 24, 44, 59, 60 CB: 1
-Monday, Nov 27, 2023
-10, 24, 35, 50, 59 CB: 3
-Sunday, Nov 26, 2023
-6, 7, 15, 18, 26 CB: 4
-Saturday, Nov 25, 2023
-35, 37, 45, 47, 55 CB: 1
-Friday, Nov 24, 2023
-28, 41, 44, 53, 56 CB: 3
-Thursday, Nov 23, 2023
-35, 44, 46, 50, 55 CB: 3
-Wednesday, Nov 22, 2023
-1, 21, 32, 48, 51 CB: 3
-Tuesday, Nov 21, 2023
-5, 11, 25, 34, 46 CB: 2
-Monday, Nov 20, 2023
-1, 16, 31, 38, 45 CB: 1
-Sunday, Nov 19, 2023
-3, 19, 21, 40, 48 CB: 2
-Saturday, Nov 18, 2023
-11, 12, 35, 39, 45 CB: 1
-Friday, Nov 17, 2023
-3, 31, 33, 48, 55 CB: 1
-Thursday, Nov 16, 2023
-1, 9, 24, 56, 60 CB: 1
-Wednesday, Nov 15, 2023
-19, 21, 22, 26, 35 CB: 1
-Tuesday, Nov 14, 2023
-3, 15, 31, 39, 58 CB: 4
-Monday, Nov 13, 2023
-5, 16, 21, 50, 57 CB: 1
-Sunday, Nov 12, 2023
-1, 21, 41, 56, 57 CB: 2
-Saturday, Nov 11, 2023
-4, 11, 15, 27, 52 CB: 2
-Friday, Nov 10, 2023
-13, 35, 55, 56, 58 CB: 4
-Thursday, Nov 09, 2023
-5, 9, 18, 50, 54 CB: 3
-Wednesday, Nov 08, 2023
-16, 24, 37, 52, 56 CB: 4
-Tuesday, Nov 07, 2023
-2, 22, 23, 34, 46 CB: 1
-Monday, Nov 06, 2023
-10, 33, 51, 52, 54 CB: 1
-Sunday, Nov 05, 2023
-19, 24, 33, 47, 54 CB: 3
-Saturday, Nov 04, 2023
-6, 9, 10, 51, 58 CB: 3
-Friday, Nov 03, 2023
-14, 21, 30, 32, 55 CB: 2
-Thursday, Nov 02, 2023
-16, 34, 40, 46, 52 CB: 1
-Wednesday, Nov 01, 2023
-7, 10, 14, 47, 48 CB: 1
-Tuesday, Oct 31, 2023
-5, 14, 37, 54, 59 CB: 3
-Monday, Oct 30, 2023
-2, 25, 32, 40, 47 CB: 2
-Sunday, Oct 29, 2023
-11, 15, 33, 38, 48 CB: 4
-Saturday, Oct 28, 2023
-24, 35, 54, 55, 58 CB: 3
-Friday, Oct 27, 2023
-10, 12, 25, 38, 51 CB: 1
-Thursday, Oct 26, 2023
-22, 30, 32, 43, 51 CB: 3
-Wednesday, Oct 25, 2023
-11, 16, 21, 25, 45 CB: 2
-Tuesday, Oct 24, 2023
-17, 36, 43, 46, 58 CB: 1
-Monday, Oct 23, 2023
-8, 9, 30, 38, 59 CB: 1
-Sunday, Oct 22, 2023
-17, 18, 32, 36, 42 CB: 3
-Saturday, Oct 21, 2023
-6, 9, 14, 21, 29 CB: 4
-Friday, Oct 20, 2023
-5, 13, 22, 27, 57 CB: 2
-Thursday, Oct 19, 2023
-3, 7, 44, 47, 55 CB: 3
-Wednesday, Oct 18, 2023
-2, 16, 18, 43, 57 CB: 3
-Tuesday, Oct 17, 2023
-5, 12, 17, 18, 29 CB: 3
-Monday, Oct 16, 2023
-13, 15, 16, 19, 33 CB: 1
-Sunday, Oct 15, 2023
-3, 6, 11, 15, 17 CB: 3
-Saturday, Oct 14, 2023
-8, 12, 23, 42, 43 CB: 4
-Friday, Oct 13, 2023
-12, 16, 24, 37, 55 CB: 3
-Thursday, Oct 12, 2023
-7, 10, 15, 31, 60 CB: 4
-Wednesday, Oct 11, 2023
-1, 9, 27, 42, 56 CB: 1
-Tuesday, Oct 10, 2023
-8, 12, 24, 39, 60 CB: 4
-Monday, Oct 09, 2023
-9, 24, 46, 58, 59 CB: 4
-Sunday, Oct 08, 2023
-2, 10, 31, 52, 53 CB: 2
-Saturday, Oct 07, 2023
-3, 9, 14, 26, 53 CB: 3
-Friday, Oct 06, 2023
-17, 30, 34, 39, 52 CB: 4
-Thursday, Oct 05, 2023
-11, 19, 37, 49, 52 CB: 1
-Wednesday, Oct 04, 2023
-8, 15, 26, 33, 60 CB: 2
-Tuesday, Oct 03, 2023
-7, 10, 14, 24, 55 CB: 3
-Monday, Oct 02, 2023
-6, 28, 49, 52, 59 CB: 1
-Sunday, Oct 01, 2023
-3, 41, 42, 46, 53 CB: 3
-Saturday, Sep 30, 2023
-10, 13, 15, 23, 40 CB: 1
-Friday, Sep 29, 2023
-6, 8, 25, 32, 50 CB: 4
-Thursday, Sep 28, 2023
-3, 9, 14, 28, 52 CB: 2
-Wednesday, Sep 27, 2023
-6, 18, 34, 36, 47 CB: 1
-Tuesday, Sep 26, 2023
-8, 9, 12, 24, 59 CB: 1
-Monday, Sep 25, 2023
-13, 16, 22, 50, 54 CB: 4
-Sunday, Sep 24, 2023
-6, 8, 42, 54, 60 CB: 2
-Saturday, Sep 23, 2023
-15, 19, 23, 38, 55 CB: 4
-Friday, Sep 22, 2023
-2, 32, 49, 57, 59 CB: 2
-Thursday, Sep 21, 2023
-8, 16, 19, 47, 60 CB: 4
-Wednesday, Sep 20, 2023
-10, 15, 41, 43, 51 CB: 4
-Tuesday, Sep 19, 2023
-2, 3, 6, 18, 19 CB: 1
-Monday, Sep 18, 2023
-6, 42, 49, 52, 55 CB: 2
-Sunday, Sep 17, 2023
-8, 29, 44, 59, 60 CB: 3
-Saturday, Sep 16, 2023
-5, 8, 19, 45, 47 CB: 3
-Friday, Sep 15, 2023
-2, 4, 21, 24, 51 CB: 4
-Thursday, Sep 14, 2023
-9, 17, 39, 48, 59 CB: 3
-Wednesday, Sep 13, 2023
-1, 31, 51, 56, 60 CB: 2
-Tuesday, Sep 12, 2023
-8, 33, 40, 46, 57 CB: 2
-Monday, Sep 11, 2023
-1, 9, 19, 28, 52 CB: 1
-Sunday, Sep 10, 2023
-20, 21, 25, 43, 45 CB: 4
-Saturday, Sep 09, 2023
-2, 6, 41, 55, 57 CB: 2
-Friday, Sep 08, 2023
-1, 2, 24, 46, 49 CB: 3
-Thursday, Sep 07, 2023
-15, 26, 28, 51, 54 CB: 3
-Wednesday, Sep 06, 2023
-2, 10, 32, 47, 53 CB: 2
-Tuesday, Sep 05, 2023
-7, 19, 43, 54, 56 CB: 1
-Monday, Sep 04, 2023
-3, 38, 40, 44, 50 CB: 2
-Sunday, Sep 03, 2023
-13, 23, 53, 58, 59 CB: 4
-Saturday, Sep 02, 2023
-7, 35, 38, 57, 59 CB: 3
-Friday, Sep 01, 2023
-7, 18, 20, 31, 46 CB: 1
-Thursday, Aug 31, 2023
-18, 26, 37, 44, 55 CB: 4
-Wednesday, Aug 30, 2023
-3, 16, 18, 20, 46 CB: 4
-Tuesday, Aug 29, 2023
-4, 18, 23, 51, 53 CB: 1
-Monday, Aug 28, 2023
-15, 21, 33, 40, 44 CB: 3
-Sunday, Aug 27, 2023
-16, 42, 48, 51, 58 CB: 3
-Saturday, Aug 26, 2023
-13, 44, 50, 52, 55 CB: 2
-Friday, Aug 25, 2023
-33, 38, 44, 45, 58 CB: 3
-Thursday, Aug 24, 2023
-9, 13, 23, 30, 51 CB: 1
-Wednesday, Aug 23, 2023
-3, 27, 29, 30, 47 CB: 1
-Tuesday, Aug 22, 2023
-1, 15, 40, 44, 55 CB: 3
-Monday, Aug 21, 2023
-5, 21, 45, 51, 53 CB: 2
-Sunday, Aug 20, 2023
-5, 28, 32, 39, 54 CB: 4
-Saturday, Aug 19, 2023
-24, 29, 37, 49, 54 CB: 1
-Friday, Aug 18, 2023
-3, 8, 42, 44, 47 CB: 4
-Thursday, Aug 17, 2023
-9, 14, 22, 27, 39 CB: 4
-Wednesday, Aug 16, 2023
-26, 35, 57, 58, 59 CB: 4
-Tuesday, Aug 15, 2023
-10, 14, 15, 30, 50 CB: 2
-Monday, Aug 14, 2023
-13, 27, 28, 52, 59 CB: 1
-Sunday, Aug 13, 2023
-1, 3, 43, 47, 59 CB: 2
-Saturday, Aug 12, 2023
-13, 15, 45, 53, 59 CB: 2
-Friday, Aug 11, 2023
-8, 18, 38, 44, 48 CB: 3
-Thursday, Aug 10, 2023
-38, 44, 50, 51, 53 CB: 3
-Wednesday, Aug 09, 2023
-17, 21, 29, 34, 48 CB: 1
-Tuesday, Aug 08, 2023
-13, 18, 39, 52, 60 CB: 4
-Monday, Aug 07, 2023
-10, 16, 31, 36, 45 CB: 1
-Sunday, Aug 06, 2023
-5, 9, 39, 49, 58 CB: 4
-Saturday, Aug 05, 2023
-4, 15, 21, 33, 60 CB: 4
-Friday, Aug 04, 2023
-16, 48, 51, 55, 60 CB: 4
-Thursday, Aug 03, 2023
-11, 22, 31, 43, 56 CB: 1
-Wednesday, Aug 02, 2023
-12, 16, 19, 25, 26 CB: 1
-Tuesday, Aug 01, 2023
-17, 20, 35, 51, 52 CB: 2
-Monday, Jul 31, 2023
-9, 14, 22, 24, 29 CB: 3
-Sunday, Jul 30, 2023
-2, 8, 22, 41, 60 CB: 3
-Saturday, Jul 29, 2023
-6, 11, 22, 26, 53 CB: 3
-Friday, Jul 28, 2023
-27, 32, 43, 45, 51 CB: 2
-Thursday, Jul 27, 2023
-2, 36, 37, 43, 57 CB: 1
-Wednesday, Jul 26, 2023
-15, 21, 37, 39, 42 CB: 1
-Tuesday, Jul 25, 2023
-1, 12, 17, 44, 52 CB: 3
-Monday, Jul 24, 2023
-13, 45, 51, 55, 57 CB: 4
-Sunday, Jul 23, 2023
-9, 15, 25, 32, 53 CB: 2
-Saturday, Jul 22, 2023
-20, 39, 41, 42, 60 CB: 2
-Friday, Jul 21, 2023
-16, 27, 31, 32, 52 CB: 1
-Thursday, Jul 20, 2023
-1, 4, 5, 6, 39 CB: 4
-Wednesday, Jul 19, 2023
-28, 31, 37, 46, 58 CB: 3
-Tuesday, Jul 18, 2023
-9, 17, 47, 53, 56 CB: 1
-Monday, Jul 17, 2023
-19, 28, 46, 52, 53 CB: 3
-Sunday, Jul 16, 2023
-12, 20, 28, 44, 47 CB: 3
-Saturday, Jul 15, 2023
-14, 26, 28, 33, 45 CB: 4
-Friday, Jul 14, 2023
-14, 27, 29, 34, 46 CB: 3
-Thursday, Jul 13, 2023
-4, 12, 30, 33, 45 CB: 3
-Wednesday, Jul 12, 2023
-9, 16, 36, 40, 59 CB: 1
-Tuesday, Jul 11, 2023
-5, 10, 16, 46, 53 CB: 2
-Monday, Jul 10, 2023
-4, 9, 33, 38, 55 CB: 1
-Sunday, Jul 09, 2023
-11, 28, 30, 34, 47 CB: 1
-Saturday, Jul 08, 2023
-9, 17, 36, 40, 51 CB: 4
-Friday, Jul 07, 2023
-11, 16, 23, 45, 53 CB: 3
-Thursday, Jul 06, 2023
-12, 21, 27, 42, 56 CB: 3
-Wednesday, Jul 05, 2023
-9, 22, 24, 34, 41 CB: 4
-Tuesday, Jul 04, 2023
-3, 9, 28, 30, 57 CB: 1
-Monday, Jul 03, 2023
-6, 22, 30, 36, 56 CB: 2
-Sunday, Jul 02, 2023
-28, 31, 39, 53, 60 CB: 3
-Saturday, Jul 01, 2023
-7, 31, 40, 57, 58 CB: 4
-Friday, Jun 30, 2023
-10, 14, 22, 28, 51 CB: 4
-Thursday, Jun 29, 2023
-2, 13, 19, 25, 29 CB: 3
-Wednesday, Jun 28, 2023
-8, 15, 19, 29, 36 CB: 3
-Tuesday, Jun 27, 2023
-2, 6, 10, 35, 37 CB: 3
-Monday, Jun 26, 2023
-36, 38, 42, 48, 60 CB: 4
-Sunday, Jun 25, 2023
-5, 41, 43, 48, 50 CB: 3
-Saturday, Jun 24, 2023
-7, 10, 14, 23, 42 CB: 4
-Friday, Jun 23, 2023
-23, 32, 41, 44, 49 CB: 1
-Thursday, Jun 22, 2023
-9, 31, 56, 57, 60 CB: 1
-Wednesday, Jun 21, 2023
-20, 26, 29, 41, 44 CB: 1
-Tuesday, Jun 20, 2023
-23, 34, 36, 44, 45 CB: 4
+Sunday, Sep 28, 2025
+12, 20, 25, 31, 32
+
+Top prize: $200,000 
+
+Saturday, Sep 27, 2025
+2, 11, 23, 26, 27
+
+Top prize: $200,000 
+
+Friday, Sep 26, 2025
+3, 4, 6, 9, 36
+
+Top prize: $200,000 
+
+Thursday, Sep 25, 2025
+5, 10, 19, 23, 36
+
+Top prize: $200,000 
+
+Wednesday, Sep 24, 2025
+4, 20, 21, 28, 35
+
+Top prize: $200,000 
+
+Tuesday, Sep 23, 2025
+4, 8, 11, 26, 29
+
+Top prize: $200,000 
+
+Monday, Sep 22, 2025
+15, 17, 25, 29, 35
+
+Top prize: $200,000 
+
+Sunday, Sep 21, 2025
+4, 15, 24, 33, 36
+
+Top prize: $200,000 
+
+Saturday, Sep 20, 2025
+1, 2, 5, 6, 11
+
+Top prize: $200,000 
+
+Friday, Sep 19, 2025
+8, 19, 24, 29, 30
+
+Top prize: $200,000 
+
+Thursday, Sep 18, 2025
+19, 22, 23, 24, 28
+
+Top prize: $200,000 
+
+Wednesday, Sep 17, 2025
+5, 11, 14, 15, 32
+
+Top prize: $200,000 
+
+Tuesday, Sep 16, 2025
+5, 9, 10, 19, 27
+
+Top prize: $200,000 
+
+Monday, Sep 15, 2025
+13, 15, 19, 24, 30
+
+Top prize: $200,000 
+
+Sunday, Sep 14, 2025
+3, 5, 17, 25, 26
+
+Top prize: $200,000 
+
+Saturday, Sep 13, 2025
+5, 11, 20, 26, 33
+
+Top prize: $200,000 
+
+Friday, Sep 12, 2025
+1, 23, 25, 27, 30
+
+Top prize: $200,000 
+
+Thursday, Sep 11, 2025
+15, 17, 19, 21, 25
+
+Top prize: $200,000 
+
+Wednesday, Sep 10, 2025
+3, 10, 12, 15, 33
+
+Top prize: $200,000 
+
+Tuesday, Sep 09, 2025
+1, 9, 22, 29, 34
+
+Top prize: $200,000 
+
+Monday, Sep 08, 2025
+5, 10, 11, 27, 33
+
+Top prize: $200,000 
+
+Sunday, Sep 07, 2025
+7, 14, 17, 20, 25
+
+Top prize: $200,000 
+
+Saturday, Sep 06, 2025
+7, 10, 13, 31, 34
+
+Top prize: $200,000 
+
+Friday, Sep 05, 2025
+4, 5, 8, 14, 23
+
+Top prize: $200,000 
+
+Thursday, Sep 04, 2025
+19, 27, 28, 31, 32
+
+Top prize: $200,000 
+
+Wednesday, Sep 03, 2025
+3, 12, 19, 31, 34
+
+Top prize: $200,000 
+
+Tuesday, Sep 02, 2025
+4, 11, 22, 25, 26
+
+Top prize: $200,000 
+
+Monday, Sep 01, 2025
+3, 7, 12, 14, 18
+
+Top prize: $200,000 
+
+Sunday, Aug 31, 2025
+7, 21, 31, 34, 36
+
+Top prize: $200,000 
+
+Saturday, Aug 30, 2025
+7, 10, 14, 19, 21
+
+Top prize: $200,000 
+
+Friday, Aug 29, 2025
+2, 5, 14, 16, 29
+
+Top prize: $200,000 
+
+Thursday, Aug 28, 2025
+2, 18, 22, 28, 34
+
+Top prize: $200,000 
+
+Wednesday, Aug 27, 2025
+15, 18, 25, 31, 32
+
+Top prize: $200,000 
+
+Tuesday, Aug 26, 2025
+4, 23, 26, 33, 34
+
+Top prize: $200,000 
+
+Monday, Aug 25, 2025
+4, 14, 23, 24, 29
+
+Top prize: $200,000 
+
+Sunday, Aug 24, 2025
+19, 26, 29, 31, 32
+
+Top prize: $200,000 
+
+Saturday, Aug 23, 2025
+1, 15, 25, 28, 36
+
+Top prize: $200,000 
+
+Friday, Aug 22, 2025
+3, 5, 15, 26, 33
+
+Top prize: $200,000 
+
+Thursday, Aug 21, 2025
+7, 11, 20, 31, 32
+
+Top prize: $200,000 
+
+Wednesday, Aug 20, 2025
+8, 10, 15, 20, 31
+
+Top prize: $200,000 
+
+Tuesday, Aug 19, 2025
+3, 6, 16, 24, 29
+
+Top prize: $200,000 
+
+Monday, Aug 18, 2025
+7, 14, 23, 25, 29
+
+Top prize: $200,000 
+
+Sunday, Aug 17, 2025
+1, 3, 15, 26, 30
+
+Top prize: $200,000 
+
+Saturday, Aug 16, 2025
+20, 24, 28, 33, 35
+
+Top prize: $200,000 
+
+Friday, Aug 15, 2025
+3, 9, 18, 21, 36
+
+Top prize: $200,000 
+
+Thursday, Aug 14, 2025
+8, 9, 10, 14, 32
+
+Top prize: $200,000 
+
+Wednesday, Aug 13, 2025
+14, 18, 19, 26, 31
+
+Top prize: $200,000 
+
+Tuesday, Aug 12, 2025
+8, 10, 18, 19, 21
+
+Top prize: $200,000 
+
+Monday, Aug 11, 2025
+7, 14, 18, 23, 25
+
+Top prize: $200,000 
+
+Sunday, Aug 10, 2025
+6, 18, 24, 35, 36
+
+Top prize: $200,000 
+

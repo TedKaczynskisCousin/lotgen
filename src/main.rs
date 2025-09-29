@@ -17,19 +17,20 @@ fn main() {
         // Vector of vectors with lottery numbers
         let mut lottoVector = Vec::new();
         
-        // Format lottery number file and stuff
+        // We are using a counter to go through the file line-by-line and extract the lottery numbers
         let mut counter = 0;
         for line in lines.flatten() {
             counter += 1;
-            
-            if (counter % 2) == 0 {
+            // We're using a modulo operation to select the second line out of each group of five, since that's where the lottery numbers are.
+            if (counter % 5) == 2 {
                 // 'm' is a 'Match', and 'as_str()' returns the matching part of the haystack.
                 // Converts would be to vector of strings to vector of ints within same line!
-		let lotto_nums: Vec<i32> = regex.find_iter(&line).map(|m| m.as_str()).map(|s| s.parse().unwrap()).collect();
-		lottoVector.push(lotto_nums);
+		        let lotto_nums: Vec<i32> = regex.find_iter(&line).map(|m| m.as_str()).map(|s| s.parse().unwrap()).collect();
+		        // Push the extracted lottery numbers (as a vector) into another vector
+		        lottoVector.push(lotto_nums);
             }
         }
-        //println!("{:#?}", lottoVector);
+        println!("{:#?}", lottoVector);
         
         
         // Create new vector that doesnt have nesting (used in calculation)
@@ -91,7 +92,7 @@ fn main() {
     // If file not found
     } else {
         println!("\nLottery Numbers file was not found!
-            \nPlease visit LotteryUSA and export numbers into this directory.
+            \nPlease visit LotteryUSA and export numbers after removing the first 2 lines of the TXT file into this directory.
             \nThe filename should be 'LotteryUSA.txt' and is case sensitive.
         ")
     }
