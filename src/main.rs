@@ -11,7 +11,7 @@ use rand::Rng;
 fn main() {
     
     // File must exist in the current path
-    if let Ok(lines) = read_lines("LotteryUSA.txt") {
+    if let Ok(lines) = read_lines("src/LotteryUSA.txt") {
         // Consumes the iterator, returns an (Optional) String
         let regex = Regex::new(r"[0-9]+").unwrap();
         // Vector of vectors with lottery numbers
