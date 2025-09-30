@@ -31,7 +31,7 @@ fn main() {
                 winning_nums.append(&mut lotto_nums)
             }
         }
-        //println!("{:#?}", lottoVector);
+        //println!("{:#?}", winning_vectors);
         //println!("{:?}", winning_nums);
         
         
