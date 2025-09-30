@@ -11,7 +11,7 @@ fn main() {
         // Consumes the iterator, returns an (Optional) String
         let regex = Regex::new(r"[0-9]+").unwrap();
         
-        // Vector of vectors with lottery numbers. This is mainly for show and isn't used in any calculations. Maybe in the future, inter-set correlations can be made with this information.
+        // Vector of vectors with lottery numbers. This is mainly for show and isn't used in any calculations. Maybe in the future, inter-set correlations can be made with this information
         let mut winning_vectors = Vec::new();
         // A non-nested vector that will hold every occurrence of a winning number. Used in calculation)
         let mut winning_nums = Vec::new();
@@ -20,7 +20,7 @@ fn main() {
         let mut counter = 0;
         for line in lines.flatten() {
             counter += 1;
-            // We're using a modulo operation to select the second line out of each group of five, since that's where the lottery numbers are.
+            // We're using a modulo operation to select the second line out of each group of five, since that's where the lottery numbers are
             if (counter % 5) == 2 {
                 // 'm' is a 'Match', and 'as_str()' returns the matching part of the haystack.
                 // Converts would be to vector of strings to vector of ints within same line!
@@ -45,8 +45,11 @@ fn main() {
         for num in *lower_bound..*upper_bound+1 {
             // Generate weights based on count of number / total amount of numbers
             let num_count = winning_nums.iter().filter(|x| **x == num).count();
-            let num_weight = num_count as f32 / winning_nums.len() as f32;
-            // Final weight value must be multiplied by 10000 in order to avoid being truncated to zero
+            let mut num_weight: f32 = num_count as f32 / winning_nums.len() as f32;
+            // Invert the weight via reciprocal method (since WeightedIndex does need them to sum to one)
+            num_weight = 1.0 / num_weight;
+            
+            // Final weight value must be multiplied by 10000 in order to avoid being truncated to zero and retain detail
             weights[(num - 1) as usize] = (num_weight * 10000.0) as usize;
             
             println!("number: {:?}", num);
@@ -56,21 +59,22 @@ fn main() {
         //println!("{:?}\n", weights);
         
         
-        // Generate the lucky numbers!
-        let dist = WeightedIndex::new(&weights).unwrap();
-        let mut rng = thread_rng();
-        
-        let mut generated_nums = [0, 0, 0, 0, 0];
-        for n in 0..5 {
-            let random_number = winning_nums[dist.sample(&mut rng)];
-            generated_nums[n as usize] = random_number;
-            weights[(random_number - 1) as usize] = 0;
+        // Generate the lucky numbers (10 times)!
+        for _n in 0..10 {
+            let dist = WeightedIndex::new(&weights).unwrap();
+            let mut rng = thread_rng();
+            
+            let mut generated_nums = [0, 0, 0, 0, 0];
+            for i in 0..5 {
+                let random_number = winning_nums[dist.sample(&mut rng)];
+                generated_nums[i as usize] = random_number;
+                weights[(random_number - 1) as usize] = 0;
+            }
+            generated_nums.sort();
+            
+            // Display winning numbers
+            println!("{:?}", generated_nums);
         }
-        generated_nums.sort();
-        
-        // Display winning numbers
-        println!("{:?}", generated_nums);
-        
         
     // If file not found
     } else {
