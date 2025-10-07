@@ -40,7 +40,7 @@ fn main() {
         let upper_bound = winning_nums.iter().max().unwrap();
         
         // Create an array to hold weights for each possible number, later used to influence random number picking. Array size is just a random big number
-        let mut weights = [0; 99];
+        let mut original_weights = [0; 99];
         
         for num in *lower_bound..*upper_bound+1 {
             // Generate weights based on count of number / total amount of numbers
@@ -50,25 +50,32 @@ fn main() {
             num_weight = 1.0 / num_weight;
             
             // Final weight value must be multiplied by 10000 in order to avoid being truncated to zero and retain detail
-            weights[(num - 1) as usize] = (num_weight * 10000.0) as usize;
+            original_weights[(num - 1) as usize] = (num_weight * 10000.0) as usize;
             
             println!("number: {:?}", num);
             println!("appeared: {:?} times", num_count);
             println!("weight: {:?}\n", num_weight);
         }
-        //println!("{:?}\n", weights);
+        //println!("{:?}\n", original_weights);
         
+        
+        // Setup RNG stuff
+        let mut rng = thread_rng();
         
         // Generate the lucky numbers (10 times)!
-        for _n in 0..10 {
-            let dist = WeightedIndex::new(&weights).unwrap();
-            let mut rng = thread_rng();
+        for _i in 0..10 {
+            // Generate weighted distribution
+            let mut dist = WeightedIndex::new(&original_weights).unwrap();
             
             let mut generated_nums = [0, 0, 0, 0, 0];
-            for i in 0..5 {
-                let random_number = winning_nums[dist.sample(&mut rng)];
-                generated_nums[i as usize] = random_number;
-                weights[(random_number - 1) as usize] = 0;
+            for n in 0..5 {
+                // Select a random number and save it to the final five
+                let sampled_index = dist.sample(&mut rng);
+                let random_number = winning_nums[sampled_index];
+                generated_nums[n as usize] = random_number;
+                
+                // Set picked number weight to zero to prevent duplicate picking
+                dist.update_weights(&[(sampled_index, &0)]).unwrap();
             }
             generated_nums.sort();
             
@@ -76,10 +83,11 @@ fn main() {
             println!("{:?}", generated_nums);
         }
         
+        
     // If file not found
     } else {
         println!("\nLottery Numbers file was not found!
-            \nPlease visit LotteryUSA and export numbers after removing the first 2 lines of the TXT file into this directory.
+            \nPlease visit LotteryUSA and export numbers into this directory after removing the first 2 lines of the TXT file.
             \nThe filename should be 'LotteryUSA.txt' and is case sensitive.
         ")
     }
